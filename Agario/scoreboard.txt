@@ -1,0 +1,29 @@
+ Player  Score
+
+ Blob 1 :  165
+ Blob 2 :  155
+ Blob 3 :  114
+ Blob 4 :  20
+ Blob 5 :  14
+ Blob 6 :  63
+ Blob 7 :  354
+ Blob 8 :  12
+ Blob 9 :  14
+ Blob 10 :  12
+ Blob 11 :  15
+ Blob 12 :  131
+ Blob 13 :  25
+ Blob 14 :  15
+ Blob 15 :  12
+ Blob 16 :  16
+ Blob 17 :  13
+ Blob 18 :  17
+ Blob 19 :  14
+ Blob 20 :  35
+ Blob 21 :  67
+ Blob 22 :  13
+ Blob 23 :  12
+ Blob 24 :  12
+
+ Winner : Blob 7
+ Score : 354

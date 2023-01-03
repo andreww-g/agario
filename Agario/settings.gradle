@@ -1,0 +1,5 @@
+rootProject.name = 'Agario'
+include 'src'
+include 'source:main'
+findProject(':source:main')?.name = 'main'
+
